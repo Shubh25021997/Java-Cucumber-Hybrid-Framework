@@ -1,0 +1,1867 @@
+2024-04-18 23:14:29 [   Application_main.java] WARN  -                                                               
+2024-04-18 23:14:29 [   Application_main.java] INFO  -                                %%%                            
+2024-04-18 23:14:29 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-18 23:14:29 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-18 23:14:29 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-18 23:14:29 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-18 23:14:29 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-18 23:14:29 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-18 23:14:29 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-18 23:14:29 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-18 23:14:29 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-18 23:14:29 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-18 23:14:29 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-18 23:14:29 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-18 23:14:29 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-18 23:14:29 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-18 23:14:29 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-18 23:14:29 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-18 23:14:29 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-18 23:14:29 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-18 23:14:29 [   Application_main.java] INFO  - 
+2024-04-18 23:28:15 [   Application_main.java] WARN  -                                                               
+2024-04-18 23:28:15 [   Application_main.java] WARN  -                                %%%                            
+2024-04-18 23:28:15 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-18 23:28:15 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-18 23:28:15 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-18 23:28:15 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-18 23:28:15 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-18 23:28:15 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-18 23:28:15 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-18 23:28:15 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-18 23:28:15 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-18 23:28:15 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-18 23:28:15 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-18 23:28:15 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-18 23:28:15 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-18 23:28:15 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-18 23:28:15 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-18 23:28:15 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-18 23:28:15 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-18 23:28:15 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-18 23:28:15 [   Application_main.java] INFO  - 
+2024-04-19 13:01:15 [   Application_main.java] INFO  -                                                               
+2024-04-19 13:01:15 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 13:01:15 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 13:01:15 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 13:01:15 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 13:01:15 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 13:01:15 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 13:01:15 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 13:01:15 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 13:01:15 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 13:01:15 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:01:15 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:01:15 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:01:15 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:01:15 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 13:01:15 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 13:01:15 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 13:01:15 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 13:01:15 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 13:01:15 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 13:01:15 [   Application_main.java] INFO  - 
+2024-04-19 13:01:21 [InternalLoggerFactory.java] DEBUG - Using SLF4J as the default logging framework
+2024-04-19 13:01:21 [ResourceLeakDetector.java] DEBUG - -Dio.netty.leakDetection.level: simple
+2024-04-19 13:01:21 [ResourceLeakDetector.java] DEBUG - -Dio.netty.leakDetection.targetRecords: 4
+2024-04-19 13:01:21 [ResourceLeakDetectorFactory.java] DEBUG - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2c7d121c
+2024-04-19 13:01:21 [ PlatformDependent0.java] DEBUG - -Dio.netty.noUnsafe: false
+2024-04-19 13:01:21 [ PlatformDependent0.java] DEBUG - Java version: 17
+2024-04-19 13:01:21 [ PlatformDependent0.java] DEBUG - sun.misc.Unsafe.theUnsafe: available
+2024-04-19 13:01:21 [ PlatformDependent0.java] DEBUG - sun.misc.Unsafe.copyMemory: available
+2024-04-19 13:01:21 [ PlatformDependent0.java] DEBUG - sun.misc.Unsafe.storeFence: available
+2024-04-19 13:01:21 [ PlatformDependent0.java] DEBUG - java.nio.Buffer.address: available
+2024-04-19 13:01:21 [ PlatformDependent0.java] DEBUG - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+2024-04-19 13:01:21 [ PlatformDependent0.java] DEBUG - java.nio.Bits.unaligned: available, true
+2024-04-19 13:01:21 [ PlatformDependent0.java] DEBUG - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @4116aac9
+2024-04-19 13:01:21 [ PlatformDependent0.java] DEBUG - java.nio.DirectByteBuffer.<init>(long, {int,long}): unavailable
+2024-04-19 13:01:21 [  PlatformDependent.java] DEBUG - sun.misc.Unsafe: available
+2024-04-19 13:01:21 [  PlatformDependent.java] DEBUG - maxDirectMemory: 4133486592 bytes (maybe)
+2024-04-19 13:01:21 [  PlatformDependent.java] DEBUG - -Dio.netty.tmpdir: C:\Users\SHUBHA~1\AppData\Local\Temp (java.io.tmpdir)
+2024-04-19 13:01:21 [  PlatformDependent.java] DEBUG - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2024-04-19 13:01:21 [  PlatformDependent.java] DEBUG - Platform: Windows
+2024-04-19 13:01:21 [  PlatformDependent.java] DEBUG - -Dio.netty.maxDirectMemory: -1 bytes
+2024-04-19 13:01:21 [  PlatformDependent.java] DEBUG - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2024-04-19 13:01:21 [       CleanerJava9.java] DEBUG - java.nio.ByteBuffer.cleaner(): available
+2024-04-19 13:01:21 [  PlatformDependent.java] DEBUG - -Dio.netty.noPreferDirect: false
+2024-04-19 13:01:21 [  PlatformDependent.java] DEBUG - org.jctools-core.MpscChunkedArrayQueue: available
+2024-04-19 13:01:21 [InternalThreadLocalMap.java] DEBUG - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2024-04-19 13:01:21 [InternalThreadLocalMap.java] DEBUG - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2024-04-19 13:01:21 [      JdkSslContext.java] DEBUG - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+2024-04-19 13:01:21 [      JdkSslContext.java] DEBUG - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2024-04-19 13:01:21 [GlobalEventExecutor.java] DEBUG - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+2024-04-19 13:01:21 [MultithreadEventLoopGroup.java] DEBUG - -Dio.netty.eventLoopThreads: 16
+2024-04-19 13:01:22 [       NioEventLoop.java] DEBUG - -Dio.netty.noKeySetOptimization: false
+2024-04-19 13:01:22 [       NioEventLoop.java] DEBUG - -Dio.netty.selectorAutoRebuildThreshold: 512
+2024-04-19 13:01:22 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.numHeapArenas: 16
+2024-04-19 13:01:22 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.numDirectArenas: 16
+2024-04-19 13:01:22 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.pageSize: 8192
+2024-04-19 13:01:22 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.maxOrder: 9
+2024-04-19 13:01:22 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.chunkSize: 4194304
+2024-04-19 13:01:22 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.smallCacheSize: 256
+2024-04-19 13:01:22 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.normalCacheSize: 64
+2024-04-19 13:01:22 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2024-04-19 13:01:22 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.cacheTrimInterval: 8192
+2024-04-19 13:01:22 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2024-04-19 13:01:22 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.useCacheForAllThreads: false
+2024-04-19 13:01:22 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2024-04-19 13:01:22 [        ByteBufUtil.java] DEBUG - -Dio.netty.allocator.type: pooled
+2024-04-19 13:01:22 [        ByteBufUtil.java] DEBUG - -Dio.netty.threadLocalDirectBufferSize: 0
+2024-04-19 13:01:22 [        ByteBufUtil.java] DEBUG - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2024-04-19 13:01:25 [   DefaultChannelId.java] DEBUG - -Dio.netty.processId: 16684 (auto-detected)
+2024-04-19 13:01:25 [            NetUtil.java] DEBUG - -Djava.net.preferIPv4Stack: false
+2024-04-19 13:01:25 [            NetUtil.java] DEBUG - -Djava.net.preferIPv6Addresses: false
+2024-04-19 13:01:25 [NetUtilInitializations.java] DEBUG - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2024-04-19 13:01:25 [            NetUtil.java] DEBUG - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2024-04-19 13:01:25 [   DefaultChannelId.java] DEBUG - -Dio.netty.machineId: 10:b1:df:ff:fe:9b:81:19 (auto-detected)
+2024-04-19 13:01:25 [    AbstractByteBuf.java] DEBUG - -Dio.netty.buffer.checkAccessible: true
+2024-04-19 13:01:25 [    AbstractByteBuf.java] DEBUG - -Dio.netty.buffer.checkBounds: true
+2024-04-19 13:01:25 [ResourceLeakDetectorFactory.java] DEBUG - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6d80cb0e
+2024-04-19 13:01:25 [NettyConnectListener.java] DEBUG - Using new Channel '[id: 0x38315292, L:/127.0.0.1:54565 - R:localhost/127.0.0.1:43258]' for 'POST' to '/session'
+2024-04-19 13:01:25 [           Recycler.java] DEBUG - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2024-04-19 13:01:25 [           Recycler.java] DEBUG - -Dio.netty.recycler.ratio: 8
+2024-04-19 13:01:25 [           Recycler.java] DEBUG - -Dio.netty.recycler.chunkSize: 32
+2024-04-19 13:01:25 [           Recycler.java] DEBUG - -Dio.netty.recycler.blocking: false
+2024-04-19 13:01:25 [           Recycler.java] DEBUG - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+2024-04-19 13:01:26 [             Brotli.java] DEBUG - brotli4j not in the classpath; Brotli support will be unavailable.
+2024-04-19 13:01:26 [        HttpHandler.java] DEBUG - 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session HTTP/1.1
+User-Agent: selenium/4.12.0 (java windows)
+Content-Length: 254
+Content-Type: application/json; charset=utf-8
+host: localhost:43258
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 886
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+2024-04-19 13:01:26 [     ChannelManager.java] DEBUG - Adding key: http://localhost:43258 for channel [id: 0x38315292, L:/127.0.0.1:54565 - R:localhost/127.0.0.1:43258]
+2024-04-19 13:01:26 [NettyConnectListener.java] DEBUG - Using new Channel '[id: 0x5428c92b, L:/127.0.0.1:54571 - R:localhost/127.0.0.1:54566]' for 'GET' to '/json/version'
+2024-04-19 13:01:26 [        HttpHandler.java] DEBUG - 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /json/version HTTP/1.1
+User-Agent: selenium/4.12.0 (java windows)
+host: localhost:54566
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Security-Policy: frame-ancestors 'none'
+Content-Length: 424
+Content-Type: application/json; charset=UTF-8
+
+2024-04-19 13:01:26 [     ChannelManager.java] DEBUG - Adding key: http://localhost:54566 for channel [id: 0x5428c92b, L:/127.0.0.1:54571 - R:localhost/127.0.0.1:54566]
+2024-04-19 13:01:26 [  ThreadLocalRandom.java] DEBUG - -Dio.netty.initialSeedUniquifier: 0x256e835faeb9d03c
+2024-04-19 13:01:26 [NettyConnectListener.java] DEBUG - Using new Channel '[id: 0xd30be110, L:/127.0.0.1:54572 - R:localhost/127.0.0.1:54566]' for 'GET' to '/devtools/browser/52957ec3-8814-4bd5-84f0-f583415ca723'
+2024-04-19 13:01:26 [   WebSocketHandler.java] DEBUG - 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /devtools/browser/52957ec3-8814-4bd5-84f0-f583415ca723 HTTP/1.1
+upgrade: websocket
+connection: upgrade
+sec-websocket-key: pvQWTg/XG3+GQ6JDY6JfQA==
+sec-websocket-version: 13
+origin: http://localhost:54566
+host: localhost:54566
+accept: */*
+user-agent: AHC/2.1
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 101 WebSocket Protocol Handshake
+Upgrade: WebSocket
+Connection: Upgrade
+Sec-WebSocket-Accept: OdeveIh+AE8xhC5uUTGoLL53lNI=
+
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO                                                               
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO                                %%%                            
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO                              %%%%%%%                          
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO                           %%%%%%%%%%%%                        
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO                         %%%%%%%%%%%%%%  %                     
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO                             %%%%%%%%%                         
+2024-04-19 13:06:26 thread-1 [   Application_main.java] INFO 
+2024-04-19 13:13:03 [   Application_main.java] INFO  -                                                               
+2024-04-19 13:13:03 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 13:13:03 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 13:13:03 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 13:13:03 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 13:13:03 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 13:13:03 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 13:13:03 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 13:13:03 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 13:13:03 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 13:13:03 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:13:03 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:13:03 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:13:03 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:13:03 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 13:13:03 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 13:13:03 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 13:13:03 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 13:13:03 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 13:13:03 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 13:13:03 [   Application_main.java] INFO  - 
+2024-04-19 13:13:04 [InternalLoggerFactory.java] DEBUG - Using SLF4J as the default logging framework
+2024-04-19 13:13:04 [ResourceLeakDetector.java] DEBUG - -Dio.netty.leakDetection.level: simple
+2024-04-19 13:13:04 [ResourceLeakDetector.java] DEBUG - -Dio.netty.leakDetection.targetRecords: 4
+2024-04-19 13:13:04 [ResourceLeakDetectorFactory.java] DEBUG - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@18518ccf
+2024-04-19 13:13:05 [ PlatformDependent0.java] DEBUG - -Dio.netty.noUnsafe: false
+2024-04-19 13:13:05 [ PlatformDependent0.java] DEBUG - Java version: 17
+2024-04-19 13:13:05 [ PlatformDependent0.java] DEBUG - sun.misc.Unsafe.theUnsafe: available
+2024-04-19 13:13:05 [ PlatformDependent0.java] DEBUG - sun.misc.Unsafe.copyMemory: available
+2024-04-19 13:13:05 [ PlatformDependent0.java] DEBUG - sun.misc.Unsafe.storeFence: available
+2024-04-19 13:13:05 [ PlatformDependent0.java] DEBUG - java.nio.Buffer.address: available
+2024-04-19 13:13:05 [ PlatformDependent0.java] DEBUG - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+2024-04-19 13:13:05 [ PlatformDependent0.java] DEBUG - java.nio.Bits.unaligned: available, true
+2024-04-19 13:13:05 [ PlatformDependent0.java] DEBUG - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @4116aac9
+2024-04-19 13:13:05 [ PlatformDependent0.java] DEBUG - java.nio.DirectByteBuffer.<init>(long, {int,long}): unavailable
+2024-04-19 13:13:05 [  PlatformDependent.java] DEBUG - sun.misc.Unsafe: available
+2024-04-19 13:13:05 [  PlatformDependent.java] DEBUG - maxDirectMemory: 4133486592 bytes (maybe)
+2024-04-19 13:13:05 [  PlatformDependent.java] DEBUG - -Dio.netty.tmpdir: C:\Users\SHUBHA~1\AppData\Local\Temp (java.io.tmpdir)
+2024-04-19 13:13:05 [  PlatformDependent.java] DEBUG - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2024-04-19 13:13:05 [  PlatformDependent.java] DEBUG - Platform: Windows
+2024-04-19 13:13:05 [  PlatformDependent.java] DEBUG - -Dio.netty.maxDirectMemory: -1 bytes
+2024-04-19 13:13:05 [  PlatformDependent.java] DEBUG - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2024-04-19 13:13:05 [       CleanerJava9.java] DEBUG - java.nio.ByteBuffer.cleaner(): available
+2024-04-19 13:13:05 [  PlatformDependent.java] DEBUG - -Dio.netty.noPreferDirect: false
+2024-04-19 13:13:05 [  PlatformDependent.java] DEBUG - org.jctools-core.MpscChunkedArrayQueue: available
+2024-04-19 13:13:05 [InternalThreadLocalMap.java] DEBUG - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2024-04-19 13:13:05 [InternalThreadLocalMap.java] DEBUG - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2024-04-19 13:13:05 [      JdkSslContext.java] DEBUG - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+2024-04-19 13:13:05 [      JdkSslContext.java] DEBUG - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2024-04-19 13:13:05 [GlobalEventExecutor.java] DEBUG - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+2024-04-19 13:13:05 [MultithreadEventLoopGroup.java] DEBUG - -Dio.netty.eventLoopThreads: 16
+2024-04-19 13:13:05 [       NioEventLoop.java] DEBUG - -Dio.netty.noKeySetOptimization: false
+2024-04-19 13:13:05 [       NioEventLoop.java] DEBUG - -Dio.netty.selectorAutoRebuildThreshold: 512
+2024-04-19 13:13:05 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.numHeapArenas: 16
+2024-04-19 13:13:05 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.numDirectArenas: 16
+2024-04-19 13:13:05 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.pageSize: 8192
+2024-04-19 13:13:05 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.maxOrder: 9
+2024-04-19 13:13:05 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.chunkSize: 4194304
+2024-04-19 13:13:05 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.smallCacheSize: 256
+2024-04-19 13:13:05 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.normalCacheSize: 64
+2024-04-19 13:13:05 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2024-04-19 13:13:05 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.cacheTrimInterval: 8192
+2024-04-19 13:13:05 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2024-04-19 13:13:05 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.useCacheForAllThreads: false
+2024-04-19 13:13:05 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2024-04-19 13:13:05 [        ByteBufUtil.java] DEBUG - -Dio.netty.allocator.type: pooled
+2024-04-19 13:13:05 [        ByteBufUtil.java] DEBUG - -Dio.netty.threadLocalDirectBufferSize: 0
+2024-04-19 13:13:05 [        ByteBufUtil.java] DEBUG - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2024-04-19 13:13:06 [   DefaultChannelId.java] DEBUG - -Dio.netty.processId: 15832 (auto-detected)
+2024-04-19 13:13:06 [            NetUtil.java] DEBUG - -Djava.net.preferIPv4Stack: false
+2024-04-19 13:13:06 [            NetUtil.java] DEBUG - -Djava.net.preferIPv6Addresses: false
+2024-04-19 13:13:06 [NetUtilInitializations.java] DEBUG - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2024-04-19 13:13:06 [            NetUtil.java] DEBUG - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2024-04-19 13:13:06 [   DefaultChannelId.java] DEBUG - -Dio.netty.machineId: 10:b1:df:ff:fe:9b:81:19 (auto-detected)
+2024-04-19 13:13:06 [    AbstractByteBuf.java] DEBUG - -Dio.netty.buffer.checkAccessible: true
+2024-04-19 13:13:06 [    AbstractByteBuf.java] DEBUG - -Dio.netty.buffer.checkBounds: true
+2024-04-19 13:13:06 [ResourceLeakDetectorFactory.java] DEBUG - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@40ac9d15
+2024-04-19 13:13:06 [NettyConnectListener.java] DEBUG - Using new Channel '[id: 0x88afb825, L:/127.0.0.1:55067 - R:localhost/127.0.0.1:47422]' for 'POST' to '/session'
+2024-04-19 13:13:06 [           Recycler.java] DEBUG - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2024-04-19 13:13:06 [           Recycler.java] DEBUG - -Dio.netty.recycler.ratio: 8
+2024-04-19 13:13:06 [           Recycler.java] DEBUG - -Dio.netty.recycler.chunkSize: 32
+2024-04-19 13:13:06 [           Recycler.java] DEBUG - -Dio.netty.recycler.blocking: false
+2024-04-19 13:13:06 [           Recycler.java] DEBUG - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+2024-04-19 13:13:07 [             Brotli.java] DEBUG - brotli4j not in the classpath; Brotli support will be unavailable.
+2024-04-19 13:13:07 [        HttpHandler.java] DEBUG - 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session HTTP/1.1
+User-Agent: selenium/4.12.0 (java windows)
+Content-Length: 254
+Content-Type: application/json; charset=utf-8
+host: localhost:47422
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 886
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+2024-04-19 13:13:07 [     ChannelManager.java] DEBUG - Adding key: http://localhost:47422 for channel [id: 0x88afb825, L:/127.0.0.1:55067 - R:localhost/127.0.0.1:47422]
+2024-04-19 13:13:07 [NettyConnectListener.java] DEBUG - Using new Channel '[id: 0xb047fcd0, L:/127.0.0.1:55074 - R:localhost/127.0.0.1:55068]' for 'GET' to '/json/version'
+2024-04-19 13:13:07 [        HttpHandler.java] DEBUG - 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /json/version HTTP/1.1
+User-Agent: selenium/4.12.0 (java windows)
+host: localhost:55068
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Security-Policy: frame-ancestors 'none'
+Content-Length: 424
+Content-Type: application/json; charset=UTF-8
+
+2024-04-19 13:13:07 [     ChannelManager.java] DEBUG - Adding key: http://localhost:55068 for channel [id: 0xb047fcd0, L:/127.0.0.1:55074 - R:localhost/127.0.0.1:55068]
+2024-04-19 13:13:07 [  ThreadLocalRandom.java] DEBUG - -Dio.netty.initialSeedUniquifier: 0x606e593a962b5779
+2024-04-19 13:13:07 [NettyConnectListener.java] DEBUG - Using new Channel '[id: 0x67020dc3, L:/127.0.0.1:55075 - R:localhost/127.0.0.1:55068]' for 'GET' to '/devtools/browser/ec1cb0c5-5444-4c90-8cc3-cfc7a9c6bd01'
+2024-04-19 13:13:07 [   WebSocketHandler.java] DEBUG - 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /devtools/browser/ec1cb0c5-5444-4c90-8cc3-cfc7a9c6bd01 HTTP/1.1
+upgrade: websocket
+connection: upgrade
+sec-websocket-key: KyYDkyFy613WGTats5s0uw==
+sec-websocket-version: 13
+origin: http://localhost:55068
+host: localhost:55068
+accept: */*
+user-agent: AHC/2.1
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 101 WebSocket Protocol Handshake
+Upgrade: WebSocket
+Connection: Upgrade
+Sec-WebSocket-Accept: s/XxKfrPHi/IyH6pMJofQvHftRA=
+
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO                                                               
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO                                %%%                            
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO                              %%%%%%%                          
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO                           %%%%%%%%%%%%                        
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO                         %%%%%%%%%%%%%%  %                     
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO                             %%%%%%%%%                         
+2024-04-19 13:14:09 [   Application_main.java] INFO  - INFO 
+2024-04-19 13:14:10 [InternalLoggerFactory.java] DEBUG - DEBUG Using SLF4J as the default logging framework
+2024-04-19 13:14:10 [ResourceLeakDetector.java] DEBUG - DEBUG -Dio.netty.leakDetection.level: simple
+2024-04-19 13:14:10 [ResourceLeakDetector.java] DEBUG - DEBUG -Dio.netty.leakDetection.targetRecords: 4
+2024-04-19 13:14:10 [ResourceLeakDetectorFactory.java] DEBUG - DEBUG Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@10650953
+2024-04-19 13:14:10 [ PlatformDependent0.java] DEBUG - DEBUG -Dio.netty.noUnsafe: false
+2024-04-19 13:14:10 [ PlatformDependent0.java] DEBUG - DEBUG Java version: 17
+2024-04-19 13:14:10 [ PlatformDependent0.java] DEBUG - DEBUG sun.misc.Unsafe.theUnsafe: available
+2024-04-19 13:14:10 [ PlatformDependent0.java] DEBUG - DEBUG sun.misc.Unsafe.copyMemory: available
+2024-04-19 13:14:10 [ PlatformDependent0.java] DEBUG - DEBUG sun.misc.Unsafe.storeFence: available
+2024-04-19 13:14:10 [ PlatformDependent0.java] DEBUG - DEBUG java.nio.Buffer.address: available
+2024-04-19 13:14:10 [ PlatformDependent0.java] DEBUG - DEBUG direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+2024-04-19 13:14:10 [ PlatformDependent0.java] DEBUG - DEBUG java.nio.Bits.unaligned: available, true
+2024-04-19 13:14:10 [ PlatformDependent0.java] DEBUG - DEBUG jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @4116aac9
+2024-04-19 13:14:10 [ PlatformDependent0.java] DEBUG - DEBUG java.nio.DirectByteBuffer.<init>(long, {int,long}): unavailable
+2024-04-19 13:14:10 [  PlatformDependent.java] DEBUG - DEBUG sun.misc.Unsafe: available
+2024-04-19 13:14:10 [  PlatformDependent.java] DEBUG - DEBUG maxDirectMemory: 4133486592 bytes (maybe)
+2024-04-19 13:14:10 [  PlatformDependent.java] DEBUG - DEBUG -Dio.netty.tmpdir: C:\Users\SHUBHA~1\AppData\Local\Temp (java.io.tmpdir)
+2024-04-19 13:14:10 [  PlatformDependent.java] DEBUG - DEBUG -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2024-04-19 13:14:10 [  PlatformDependent.java] DEBUG - DEBUG Platform: Windows
+2024-04-19 13:14:10 [  PlatformDependent.java] DEBUG - DEBUG -Dio.netty.maxDirectMemory: -1 bytes
+2024-04-19 13:14:10 [  PlatformDependent.java] DEBUG - DEBUG -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2024-04-19 13:14:10 [       CleanerJava9.java] DEBUG - DEBUG java.nio.ByteBuffer.cleaner(): available
+2024-04-19 13:14:10 [  PlatformDependent.java] DEBUG - DEBUG -Dio.netty.noPreferDirect: false
+2024-04-19 13:14:10 [  PlatformDependent.java] DEBUG - DEBUG org.jctools-core.MpscChunkedArrayQueue: available
+2024-04-19 13:14:10 [InternalThreadLocalMap.java] DEBUG - DEBUG -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2024-04-19 13:14:10 [InternalThreadLocalMap.java] DEBUG - DEBUG -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2024-04-19 13:14:10 [      JdkSslContext.java] DEBUG - DEBUG Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+2024-04-19 13:14:10 [      JdkSslContext.java] DEBUG - DEBUG Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2024-04-19 13:14:10 [GlobalEventExecutor.java] DEBUG - DEBUG -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+2024-04-19 13:14:11 [MultithreadEventLoopGroup.java] DEBUG - DEBUG -Dio.netty.eventLoopThreads: 16
+2024-04-19 13:14:11 [       NioEventLoop.java] DEBUG - DEBUG -Dio.netty.noKeySetOptimization: false
+2024-04-19 13:14:11 [       NioEventLoop.java] DEBUG - DEBUG -Dio.netty.selectorAutoRebuildThreshold: 512
+2024-04-19 13:14:11 [PooledByteBufAllocator.java] DEBUG - DEBUG -Dio.netty.allocator.numHeapArenas: 16
+2024-04-19 13:14:11 [PooledByteBufAllocator.java] DEBUG - DEBUG -Dio.netty.allocator.numDirectArenas: 16
+2024-04-19 13:14:11 [PooledByteBufAllocator.java] DEBUG - DEBUG -Dio.netty.allocator.pageSize: 8192
+2024-04-19 13:14:11 [PooledByteBufAllocator.java] DEBUG - DEBUG -Dio.netty.allocator.maxOrder: 9
+2024-04-19 13:14:11 [PooledByteBufAllocator.java] DEBUG - DEBUG -Dio.netty.allocator.chunkSize: 4194304
+2024-04-19 13:14:11 [PooledByteBufAllocator.java] DEBUG - DEBUG -Dio.netty.allocator.smallCacheSize: 256
+2024-04-19 13:14:11 [PooledByteBufAllocator.java] DEBUG - DEBUG -Dio.netty.allocator.normalCacheSize: 64
+2024-04-19 13:14:11 [PooledByteBufAllocator.java] DEBUG - DEBUG -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2024-04-19 13:14:11 [PooledByteBufAllocator.java] DEBUG - DEBUG -Dio.netty.allocator.cacheTrimInterval: 8192
+2024-04-19 13:14:11 [PooledByteBufAllocator.java] DEBUG - DEBUG -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2024-04-19 13:14:11 [PooledByteBufAllocator.java] DEBUG - DEBUG -Dio.netty.allocator.useCacheForAllThreads: false
+2024-04-19 13:14:11 [PooledByteBufAllocator.java] DEBUG - DEBUG -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2024-04-19 13:14:11 [        ByteBufUtil.java] DEBUG - DEBUG -Dio.netty.allocator.type: pooled
+2024-04-19 13:14:11 [        ByteBufUtil.java] DEBUG - DEBUG -Dio.netty.threadLocalDirectBufferSize: 0
+2024-04-19 13:14:11 [        ByteBufUtil.java] DEBUG - DEBUG -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2024-04-19 13:14:12 [   DefaultChannelId.java] DEBUG - DEBUG -Dio.netty.processId: 33512 (auto-detected)
+2024-04-19 13:14:12 [            NetUtil.java] DEBUG - DEBUG -Djava.net.preferIPv4Stack: false
+2024-04-19 13:14:12 [            NetUtil.java] DEBUG - DEBUG -Djava.net.preferIPv6Addresses: false
+2024-04-19 13:14:12 [NetUtilInitializations.java] DEBUG - DEBUG Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2024-04-19 13:14:12 [            NetUtil.java] DEBUG - DEBUG Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2024-04-19 13:14:12 [   DefaultChannelId.java] DEBUG - DEBUG -Dio.netty.machineId: 10:b1:df:ff:fe:9b:81:19 (auto-detected)
+2024-04-19 13:14:12 [    AbstractByteBuf.java] DEBUG - DEBUG -Dio.netty.buffer.checkAccessible: true
+2024-04-19 13:14:12 [    AbstractByteBuf.java] DEBUG - DEBUG -Dio.netty.buffer.checkBounds: true
+2024-04-19 13:14:12 [ResourceLeakDetectorFactory.java] DEBUG - DEBUG Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2d24ba27
+2024-04-19 13:14:12 [NettyConnectListener.java] DEBUG - DEBUG Using new Channel '[id: 0x2bfc8983, L:/127.0.0.1:55117 - R:localhost/127.0.0.1:30138]' for 'POST' to '/session'
+2024-04-19 13:14:12 [           Recycler.java] DEBUG - DEBUG -Dio.netty.recycler.maxCapacityPerThread: 4096
+2024-04-19 13:14:12 [           Recycler.java] DEBUG - DEBUG -Dio.netty.recycler.ratio: 8
+2024-04-19 13:14:12 [           Recycler.java] DEBUG - DEBUG -Dio.netty.recycler.chunkSize: 32
+2024-04-19 13:14:12 [           Recycler.java] DEBUG - DEBUG -Dio.netty.recycler.blocking: false
+2024-04-19 13:14:12 [           Recycler.java] DEBUG - DEBUG -Dio.netty.recycler.batchFastThreadLocalOnly: true
+2024-04-19 13:14:13 [             Brotli.java] DEBUG - DEBUG brotli4j not in the classpath; Brotli support will be unavailable.
+2024-04-19 13:14:13 [        HttpHandler.java] DEBUG - DEBUG 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session HTTP/1.1
+User-Agent: selenium/4.12.0 (java windows)
+Content-Length: 254
+Content-Type: application/json; charset=utf-8
+host: localhost:30138
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 884
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+2024-04-19 13:14:13 [     ChannelManager.java] DEBUG - DEBUG Adding key: http://localhost:30138 for channel [id: 0x2bfc8983, L:/127.0.0.1:55117 - R:localhost/127.0.0.1:30138]
+2024-04-19 13:14:13 [NettyConnectListener.java] DEBUG - DEBUG Using new Channel '[id: 0x56e56614, L:/127.0.0.1:55125 - R:localhost/127.0.0.1:55118]' for 'GET' to '/json/version'
+2024-04-19 13:14:13 [        HttpHandler.java] DEBUG - DEBUG 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /json/version HTTP/1.1
+User-Agent: selenium/4.12.0 (java windows)
+host: localhost:55118
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Security-Policy: frame-ancestors 'none'
+Content-Length: 424
+Content-Type: application/json; charset=UTF-8
+
+2024-04-19 13:14:13 [     ChannelManager.java] DEBUG - DEBUG Adding key: http://localhost:55118 for channel [id: 0x56e56614, L:/127.0.0.1:55125 - R:localhost/127.0.0.1:55118]
+2024-04-19 13:14:13 [  ThreadLocalRandom.java] DEBUG - DEBUG -Dio.netty.initialSeedUniquifier: 0xf4d3658c32433dd6
+2024-04-19 13:14:13 [NettyConnectListener.java] DEBUG - DEBUG Using new Channel '[id: 0x70dc1c02, L:/127.0.0.1:55126 - R:localhost/127.0.0.1:55118]' for 'GET' to '/devtools/browser/44fda2eb-6eac-434e-9c34-d5f2283b644d'
+2024-04-19 13:14:13 [   WebSocketHandler.java] DEBUG - DEBUG 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /devtools/browser/44fda2eb-6eac-434e-9c34-d5f2283b644d HTTP/1.1
+upgrade: websocket
+connection: upgrade
+sec-websocket-key: ZBLzNOln+bty0I4ZdhM7VQ==
+sec-websocket-version: 13
+origin: http://localhost:55118
+host: localhost:55118
+accept: */*
+user-agent: AHC/2.1
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 101 WebSocket Protocol Handshake
+Upgrade: WebS
+2024-04-19 13:14:56 [   Application_main.java] INFO  -                                                               
+2024-04-19 13:14:56 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 13:14:56 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 13:14:56 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 13:14:56 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 13:14:56 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 13:14:56 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 13:14:56 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 13:14:56 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 13:14:56 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 13:14:56 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:14:56 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:14:56 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:14:56 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:14:56 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 13:14:56 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 13:14:56 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 13:14:56 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 13:14:56 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 13:14:56 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 13:14:56 [   Application_main.java] INFO  - 
+2024-04-19 13:14:57 [InternalLoggerFactory.java] DEBUG - Using SLF4J as the default logging framework
+2024-04-19 13:14:57 [ResourceLeakDetector.java] DEBUG - -Dio.netty.leakDetection.level: simple
+2024-04-19 13:14:57 [ResourceLeakDetector.java] DEBUG - -Dio.netty.leakDetection.targetRecords: 4
+2024-04-19 13:14:57 [ResourceLeakDetectorFactory.java] DEBUG - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@659eef7
+2024-04-19 13:14:57 [ PlatformDependent0.java] DEBUG - -Dio.netty.noUnsafe: false
+2024-04-19 13:14:57 [ PlatformDependent0.java] DEBUG - Java version: 17
+2024-04-19 13:14:57 [ PlatformDependent0.java] DEBUG - sun.misc.Unsafe.theUnsafe: available
+2024-04-19 13:14:57 [ PlatformDependent0.java] DEBUG - sun.misc.Unsafe.copyMemory: available
+2024-04-19 13:14:57 [ PlatformDependent0.java] DEBUG - sun.misc.Unsafe.storeFence: available
+2024-04-19 13:14:57 [ PlatformDependent0.java] DEBUG - java.nio.Buffer.address: available
+2024-04-19 13:14:57 [ PlatformDependent0.java] DEBUG - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+2024-04-19 13:14:57 [ PlatformDependent0.java] DEBUG - java.nio.Bits.unaligned: available, true
+2024-04-19 13:14:57 [ PlatformDependent0.java] DEBUG - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @4116aac9
+2024-04-19 13:14:57 [ PlatformDependent0.java] DEBUG - java.nio.DirectByteBuffer.<init>(long, {int,long}): unavailable
+2024-04-19 13:14:57 [  PlatformDependent.java] DEBUG - sun.misc.Unsafe: available
+2024-04-19 13:14:57 [  PlatformDependent.java] DEBUG - maxDirectMemory: 4133486592 bytes (maybe)
+2024-04-19 13:14:57 [  PlatformDependent.java] DEBUG - -Dio.netty.tmpdir: C:\Users\SHUBHA~1\AppData\Local\Temp (java.io.tmpdir)
+2024-04-19 13:14:57 [  PlatformDependent.java] DEBUG - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2024-04-19 13:14:57 [  PlatformDependent.java] DEBUG - Platform: Windows
+2024-04-19 13:14:57 [  PlatformDependent.java] DEBUG - -Dio.netty.maxDirectMemory: -1 bytes
+2024-04-19 13:14:57 [  PlatformDependent.java] DEBUG - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2024-04-19 13:14:57 [       CleanerJava9.java] DEBUG - java.nio.ByteBuffer.cleaner(): available
+2024-04-19 13:14:57 [  PlatformDependent.java] DEBUG - -Dio.netty.noPreferDirect: false
+2024-04-19 13:14:57 [  PlatformDependent.java] DEBUG - org.jctools-core.MpscChunkedArrayQueue: available
+2024-04-19 13:14:57 [InternalThreadLocalMap.java] DEBUG - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2024-04-19 13:14:57 [InternalThreadLocalMap.java] DEBUG - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2024-04-19 13:14:57 [      JdkSslContext.java] DEBUG - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+2024-04-19 13:14:57 [      JdkSslContext.java] DEBUG - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2024-04-19 13:14:57 [GlobalEventExecutor.java] DEBUG - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+2024-04-19 13:14:57 [MultithreadEventLoopGroup.java] DEBUG - -Dio.netty.eventLoopThreads: 16
+2024-04-19 13:14:57 [       NioEventLoop.java] DEBUG - -Dio.netty.noKeySetOptimization: false
+2024-04-19 13:14:57 [       NioEventLoop.java] DEBUG - -Dio.netty.selectorAutoRebuildThreshold: 512
+2024-04-19 13:14:57 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.numHeapArenas: 16
+2024-04-19 13:14:57 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.numDirectArenas: 16
+2024-04-19 13:14:57 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.pageSize: 8192
+2024-04-19 13:14:57 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.maxOrder: 9
+2024-04-19 13:14:57 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.chunkSize: 4194304
+2024-04-19 13:14:57 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.smallCacheSize: 256
+2024-04-19 13:14:57 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.normalCacheSize: 64
+2024-04-19 13:14:57 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2024-04-19 13:14:57 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.cacheTrimInterval: 8192
+2024-04-19 13:14:57 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2024-04-19 13:14:57 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.useCacheForAllThreads: false
+2024-04-19 13:14:57 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2024-04-19 13:14:57 [        ByteBufUtil.java] DEBUG - -Dio.netty.allocator.type: pooled
+2024-04-19 13:14:57 [        ByteBufUtil.java] DEBUG - -Dio.netty.threadLocalDirectBufferSize: 0
+2024-04-19 13:14:57 [        ByteBufUtil.java] DEBUG - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2024-04-19 13:14:58 [   DefaultChannelId.java] DEBUG - -Dio.netty.processId: 4048 (auto-detected)
+2024-04-19 13:14:58 [            NetUtil.java] DEBUG - -Djava.net.preferIPv4Stack: false
+2024-04-19 13:14:58 [            NetUtil.java] DEBUG - -Djava.net.preferIPv6Addresses: false
+2024-04-19 13:14:58 [NetUtilInitializations.java] DEBUG - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2024-04-19 13:14:58 [            NetUtil.java] DEBUG - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2024-04-19 13:14:58 [   DefaultChannelId.java] DEBUG - -Dio.netty.machineId: 10:b1:df:ff:fe:9b:81:19 (auto-detected)
+2024-04-19 13:14:58 [    AbstractByteBuf.java] DEBUG - -Dio.netty.buffer.checkAccessible: true
+2024-04-19 13:14:58 [    AbstractByteBuf.java] DEBUG - -Dio.netty.buffer.checkBounds: true
+2024-04-19 13:14:58 [ResourceLeakDetectorFactory.java] DEBUG - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@2e75ccc6
+2024-04-19 13:14:58 [NettyConnectListener.java] DEBUG - Using new Channel '[id: 0xf33e58f5, L:/127.0.0.1:55165 - R:localhost/127.0.0.1:20313]' for 'POST' to '/session'
+2024-04-19 13:14:58 [           Recycler.java] DEBUG - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2024-04-19 13:14:58 [           Recycler.java] DEBUG - -Dio.netty.recycler.ratio: 8
+2024-04-19 13:14:58 [           Recycler.java] DEBUG - -Dio.netty.recycler.chunkSize: 32
+2024-04-19 13:14:58 [           Recycler.java] DEBUG - -Dio.netty.recycler.blocking: false
+2024-04-19 13:14:58 [           Recycler.java] DEBUG - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+2024-04-19 13:14:59 [             Brotli.java] DEBUG - brotli4j not in the classpath; Brotli support will be unavailable.
+2024-04-19 13:14:59 [        HttpHandler.java] DEBUG - 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session HTTP/1.1
+User-Agent: selenium/4.12.0 (java windows)
+Content-Length: 254
+Content-Type: application/json; charset=utf-8
+host: localhost:20313
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 884
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+2024-04-19 13:14:59 [     ChannelManager.java] DEBUG - Adding key: http://localhost:20313 for channel [id: 0xf33e58f5, L:/127.0.0.1:55165 - R:localhost/127.0.0.1:20313]
+2024-04-19 13:14:59 [NettyConnectListener.java] DEBUG - Using new Channel '[id: 0xe33c7be9, L:/127.0.0.1:55172 - R:localhost/127.0.0.1:55166]' for 'GET' to '/json/version'
+2024-04-19 13:14:59 [        HttpHandler.java] DEBUG - 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /json/version HTTP/1.1
+User-Agent: selenium/4.12.0 (java windows)
+host: localhost:55166
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Security-Policy: frame-ancestors 'none'
+Content-Length: 424
+Content-Type: application/json; charset=UTF-8
+
+2024-04-19 13:14:59 [     ChannelManager.java] DEBUG - Adding key: http://localhost:55166 for channel [id: 0xe33c7be9, L:/127.0.0.1:55172 - R:localhost/127.0.0.1:55166]
+2024-04-19 13:14:59 [  ThreadLocalRandom.java] DEBUG - -Dio.netty.initialSeedUniquifier: 0x3ee5b2ef21621c0c
+2024-04-19 13:14:59 [NettyConnectListener.java] DEBUG - Using new Channel '[id: 0x39aa9a0b, L:/127.0.0.1:55173 - R:localhost/127.0.0.1:55166]' for 'GET' to '/devtools/browser/178abe8e-27b1-47a4-a0bb-abfbd44fd97e'
+2024-04-19 13:14:59 [   WebSocketHandler.java] DEBUG - 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /devtools/browser/178abe8e-27b1-47a4-a0bb-abfbd44fd97e HTTP/1.1
+upgrade: websocket
+connection: upgrade
+sec-websocket-key: h/cODLRpIXZobcM+5yY9/A==
+sec-websocket-version: 13
+origin: http://localhost:55166
+host: localhost:55166
+accept: */*
+user-agent: AHC/2.1
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 101 WebSocket Protocol Handshake
+Upgrade: WebSocket
+Connection: Upgrade
+Sec-WebSocket-Accept: bFbf6nAfs2W1iCR8TWBo4gO7s2U=
+
+2024-04-19 13:15:50 [   Application_main.java] INFO  -                                                               
+2024-04-19 13:15:50 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 13:15:50 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 13:15:50 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 13:15:50 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 13:15:50 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 13:15:50 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 13:15:50 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 13:15:50 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 13:15:50 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 13:15:50 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:15:50 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:15:50 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:15:50 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:15:50 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 13:15:50 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 13:15:50 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 13:15:50 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 13:15:50 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 13:15:50 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 13:15:50 [   Application_main.java] INFO  - 
+2024-04-19 13:16:12 [   Application_main.java] INFO  -                                                               
+2024-04-19 13:16:12 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 13:16:12 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 13:16:12 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 13:16:12 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 13:16:12 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 13:16:12 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 13:16:12 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 13:16:12 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 13:16:12 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 13:16:12 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:16:12 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:16:12 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:16:12 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:16:12 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 13:16:12 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 13:16:12 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 13:16:12 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 13:16:12 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 13:16:12 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 13:16:12 [   Application_main.java] INFO  - 
+2024-04-19 13:16:13 [InternalLoggerFactory.java] DEBUG - Using SLF4J as the default logging framework
+2024-04-19 13:16:13 [ResourceLeakDetector.java] DEBUG - -Dio.netty.leakDetection.level: simple
+2024-04-19 13:16:13 [ResourceLeakDetector.java] DEBUG - -Dio.netty.leakDetection.targetRecords: 4
+2024-04-19 13:16:13 [ResourceLeakDetectorFactory.java] DEBUG - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@10650953
+2024-04-19 13:16:13 [ PlatformDependent0.java] DEBUG - -Dio.netty.noUnsafe: false
+2024-04-19 13:16:13 [ PlatformDependent0.java] DEBUG - Java version: 17
+2024-04-19 13:16:13 [ PlatformDependent0.java] DEBUG - sun.misc.Unsafe.theUnsafe: available
+2024-04-19 13:16:13 [ PlatformDependent0.java] DEBUG - sun.misc.Unsafe.copyMemory: available
+2024-04-19 13:16:13 [ PlatformDependent0.java] DEBUG - sun.misc.Unsafe.storeFence: available
+2024-04-19 13:16:13 [ PlatformDependent0.java] DEBUG - java.nio.Buffer.address: available
+2024-04-19 13:16:13 [ PlatformDependent0.java] DEBUG - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+2024-04-19 13:16:13 [ PlatformDependent0.java] DEBUG - java.nio.Bits.unaligned: available, true
+2024-04-19 13:16:13 [ PlatformDependent0.java] DEBUG - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @4116aac9
+2024-04-19 13:16:13 [ PlatformDependent0.java] DEBUG - java.nio.DirectByteBuffer.<init>(long, {int,long}): unavailable
+2024-04-19 13:16:13 [  PlatformDependent.java] DEBUG - sun.misc.Unsafe: available
+2024-04-19 13:16:13 [  PlatformDependent.java] DEBUG - maxDirectMemory: 4133486592 bytes (maybe)
+2024-04-19 13:16:13 [  PlatformDependent.java] DEBUG - -Dio.netty.tmpdir: C:\Users\SHUBHA~1\AppData\Local\Temp (java.io.tmpdir)
+2024-04-19 13:16:13 [  PlatformDependent.java] DEBUG - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2024-04-19 13:16:13 [  PlatformDependent.java] DEBUG - Platform: Windows
+2024-04-19 13:16:13 [  PlatformDependent.java] DEBUG - -Dio.netty.maxDirectMemory: -1 bytes
+2024-04-19 13:16:13 [  PlatformDependent.java] DEBUG - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2024-04-19 13:16:13 [       CleanerJava9.java] DEBUG - java.nio.ByteBuffer.cleaner(): available
+2024-04-19 13:16:13 [  PlatformDependent.java] DEBUG - -Dio.netty.noPreferDirect: false
+2024-04-19 13:16:13 [  PlatformDependent.java] DEBUG - org.jctools-core.MpscChunkedArrayQueue: available
+2024-04-19 13:16:13 [InternalThreadLocalMap.java] DEBUG - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2024-04-19 13:16:13 [InternalThreadLocalMap.java] DEBUG - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2024-04-19 13:16:13 [      JdkSslContext.java] DEBUG - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+2024-04-19 13:16:13 [      JdkSslContext.java] DEBUG - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+2024-04-19 13:16:13 [GlobalEventExecutor.java] DEBUG - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+2024-04-19 13:16:13 [MultithreadEventLoopGroup.java] DEBUG - -Dio.netty.eventLoopThreads: 16
+2024-04-19 13:16:13 [       NioEventLoop.java] DEBUG - -Dio.netty.noKeySetOptimization: false
+2024-04-19 13:16:13 [       NioEventLoop.java] DEBUG - -Dio.netty.selectorAutoRebuildThreshold: 512
+2024-04-19 13:16:13 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.numHeapArenas: 16
+2024-04-19 13:16:13 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.numDirectArenas: 16
+2024-04-19 13:16:13 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.pageSize: 8192
+2024-04-19 13:16:13 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.maxOrder: 9
+2024-04-19 13:16:13 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.chunkSize: 4194304
+2024-04-19 13:16:13 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.smallCacheSize: 256
+2024-04-19 13:16:13 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.normalCacheSize: 64
+2024-04-19 13:16:13 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2024-04-19 13:16:13 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.cacheTrimInterval: 8192
+2024-04-19 13:16:13 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2024-04-19 13:16:13 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.useCacheForAllThreads: false
+2024-04-19 13:16:13 [PooledByteBufAllocator.java] DEBUG - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2024-04-19 13:16:13 [        ByteBufUtil.java] DEBUG - -Dio.netty.allocator.type: pooled
+2024-04-19 13:16:13 [        ByteBufUtil.java] DEBUG - -Dio.netty.threadLocalDirectBufferSize: 0
+2024-04-19 13:16:13 [        ByteBufUtil.java] DEBUG - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2024-04-19 13:16:14 [   DefaultChannelId.java] DEBUG - -Dio.netty.processId: 20948 (auto-detected)
+2024-04-19 13:16:14 [            NetUtil.java] DEBUG - -Djava.net.preferIPv4Stack: false
+2024-04-19 13:16:14 [            NetUtil.java] DEBUG - -Djava.net.preferIPv6Addresses: false
+2024-04-19 13:16:14 [NetUtilInitializations.java] DEBUG - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2024-04-19 13:16:14 [            NetUtil.java] DEBUG - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2024-04-19 13:16:14 [   DefaultChannelId.java] DEBUG - -Dio.netty.machineId: 10:b1:df:ff:fe:9b:81:19 (auto-detected)
+2024-04-19 13:16:14 [    AbstractByteBuf.java] DEBUG - -Dio.netty.buffer.checkAccessible: true
+2024-04-19 13:16:14 [    AbstractByteBuf.java] DEBUG - -Dio.netty.buffer.checkBounds: true
+2024-04-19 13:16:14 [ResourceLeakDetectorFactory.java] DEBUG - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@3a41a571
+2024-04-19 13:16:14 [NettyConnectListener.java] DEBUG - Using new Channel '[id: 0x170502da, L:/127.0.0.1:55229 - R:localhost/127.0.0.1:17873]' for 'POST' to '/session'
+2024-04-19 13:16:14 [           Recycler.java] DEBUG - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2024-04-19 13:16:14 [           Recycler.java] DEBUG - -Dio.netty.recycler.ratio: 8
+2024-04-19 13:16:14 [           Recycler.java] DEBUG - -Dio.netty.recycler.chunkSize: 32
+2024-04-19 13:16:14 [           Recycler.java] DEBUG - -Dio.netty.recycler.blocking: false
+2024-04-19 13:16:14 [           Recycler.java] DEBUG - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+2024-04-19 13:16:15 [             Brotli.java] DEBUG - brotli4j not in the classpath; Brotli support will be unavailable.
+2024-04-19 13:16:15 [        HttpHandler.java] DEBUG - 
+
+Request DefaultHttpRequest(decodeResult: success, version: HTTP/1.1)
+POST /session HTTP/1.1
+User-Agent: selenium/4.12.0 (java windows)
+Content-Length: 254
+Content-Type: application/json; charset=utf-8
+host: localhost:17873
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Length: 886
+Content-Type: application/json; charset=utf-8
+cache-control: no-cache
+
+2024-04-19 13:16:15 [     ChannelManager.java] DEBUG - Adding key: http://localhost:17873 for channel [id: 0x170502da, L:/127.0.0.1:55229 - R:localhost/127.0.0.1:17873]
+2024-04-19 13:16:16 [NettyConnectListener.java] DEBUG - Using new Channel '[id: 0xafcf62a0, L:/127.0.0.1:55236 - R:localhost/127.0.0.1:55230]' for 'GET' to '/json/version'
+2024-04-19 13:16:16 [        HttpHandler.java] DEBUG - 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /json/version HTTP/1.1
+User-Agent: selenium/4.12.0 (java windows)
+host: localhost:55230
+accept: */*
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 200 OK
+Content-Security-Policy: frame-ancestors 'none'
+Content-Length: 424
+Content-Type: application/json; charset=UTF-8
+
+2024-04-19 13:16:16 [     ChannelManager.java] DEBUG - Adding key: http://localhost:55230 for channel [id: 0xafcf62a0, L:/127.0.0.1:55236 - R:localhost/127.0.0.1:55230]
+2024-04-19 13:16:16 [  ThreadLocalRandom.java] DEBUG - -Dio.netty.initialSeedUniquifier: 0x16f92ed3bea2c425
+2024-04-19 13:16:16 [NettyConnectListener.java] DEBUG - Using new Channel '[id: 0xf6d863db, L:/127.0.0.1:55237 - R:localhost/127.0.0.1:55230]' for 'GET' to '/devtools/browser/4e5c3340-e211-4528-b21b-92998bb00052'
+2024-04-19 13:16:16 [   WebSocketHandler.java] DEBUG - 
+
+Request DefaultFullHttpRequest(decodeResult: success, version: HTTP/1.1, content: EmptyByteBufBE)
+GET /devtools/browser/4e5c3340-e211-4528-b21b-92998bb00052 HTTP/1.1
+upgrade: websocket
+connection: upgrade
+sec-websocket-key: wYvi2jSPEPO7JTNWjOyPFQ==
+sec-websocket-version: 13
+origin: http://localhost:55230
+host: localhost:55230
+accept: */*
+user-agent: AHC/2.1
+
+Response DefaultHttpResponse(decodeResult: success, version: HTTP/1.1)
+HTTP/1.1 101 WebSocket Protocol Handshake
+Upgrade: WebSocket
+Connection: Upgrade
+Sec-WebSocket-Accept: oKOHIUxQ+Q8F/z23nahxUt0sXtY=
+
+2024-04-19 13:16:43 [   Application_main.java] WARN  -                                                               
+2024-04-19 13:17:37 [   Application_main.java] INFO  -                                                               
+2024-04-19 13:17:37 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 13:17:37 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 13:17:37 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 13:17:37 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 13:17:37 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 13:17:37 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 13:17:37 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 13:17:37 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 13:17:37 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 13:17:37 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:17:37 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:17:37 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:17:37 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:17:37 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 13:17:37 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 13:17:37 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 13:17:37 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 13:17:37 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 13:17:37 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 13:17:37 [   Application_main.java] INFO  - 
+2024-04-19 13:24:25 [   Application_main.java] INFO  -                                                               
+2024-04-19 13:24:25 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 13:24:25 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 13:24:25 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 13:24:25 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 13:24:25 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 13:24:25 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 13:24:25 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 13:24:25 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 13:24:25 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 13:24:25 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:24:25 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:24:25 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:24:25 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:24:25 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 13:24:25 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 13:24:25 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 13:24:25 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 13:24:25 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 13:24:25 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 13:24:25 [   Application_main.java] INFO  - 
+2024-04-19 13:24:48 [   Application_main.java] INFO  -                                                               
+2024-04-19 13:24:48 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 13:24:48 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 13:24:48 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 13:24:48 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 13:24:48 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 13:24:48 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 13:24:48 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 13:24:48 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 13:24:48 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 13:24:48 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:24:48 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:24:48 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 13:24:48 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 13:24:48 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 13:24:48 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 13:24:48 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 13:24:48 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 13:24:48 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 13:24:48 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 13:24:48 [   Application_main.java] INFO  - 
+2024-04-19 17:57:08 [   Application_main.java] INFO  -                                                               
+2024-04-19 17:57:08 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 17:57:08 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 17:57:08 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 17:57:08 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 17:57:08 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 17:57:08 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 17:57:08 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 17:57:08 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 17:57:08 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 17:57:08 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 17:57:08 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 17:57:08 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 17:57:08 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 17:57:08 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 17:57:08 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 17:57:08 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 17:57:08 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 17:57:08 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 17:57:08 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 17:57:08 [   Application_main.java] INFO  - 
+2024-04-19 17:57:08 [          Execution.java] INFO  - ==============================================================
+2024-04-19 17:57:08 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-04-19 17:57:08 [          Execution.java] INFO  - ==============================================================
+2024-04-19 19:15:20 [   Application_main.java] INFO  -                                                               
+2024-04-19 19:15:20 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 19:15:20 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 19:15:20 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 19:15:20 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 19:15:20 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 19:15:20 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 19:15:20 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 19:15:20 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 19:15:20 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 19:15:20 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 19:15:20 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 19:15:20 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 19:15:20 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 19:15:20 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 19:15:20 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 19:15:20 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 19:15:20 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 19:15:20 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 19:15:20 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 19:15:20 [   Application_main.java] INFO  - 
+2024-04-19 19:15:20 [          Execution.java] INFO  - ==============================================================
+2024-04-19 19:15:20 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-04-19 19:15:20 [          Execution.java] INFO  - ==============================================================
+2024-04-19 19:58:15 [   Application_main.java] INFO  -                                                               
+2024-04-19 19:58:15 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 19:58:15 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 19:58:15 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 19:58:15 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 19:58:15 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 19:58:15 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 19:58:15 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 19:58:15 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 19:58:15 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 19:58:15 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 19:58:15 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 19:58:15 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 19:58:15 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 19:58:15 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 19:58:15 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 19:58:15 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 19:58:15 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 19:58:15 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 19:58:15 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 19:58:15 [   Application_main.java] INFO  - 
+2024-04-19 19:58:15 [          Execution.java] INFO  - ==============================================================
+2024-04-19 19:58:15 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-04-19 19:58:15 [          Execution.java] INFO  - ==============================================================
+2024-04-19 20:07:08 [   Application_main.java] INFO  -                                                               
+2024-04-19 20:07:08 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 20:07:08 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 20:07:08 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 20:07:08 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 20:07:08 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 20:07:08 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 20:07:08 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 20:07:08 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 20:07:08 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 20:07:08 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 20:07:08 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 20:07:08 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 20:07:08 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 20:07:08 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 20:07:08 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 20:07:08 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 20:07:08 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 20:07:08 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 20:07:08 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 20:07:08 [   Application_main.java] INFO  - 
+2024-04-19 20:07:08 [          Execution.java] INFO  - ==============================================================
+2024-04-19 20:07:08 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-04-19 20:07:08 [          Execution.java] INFO  - ==============================================================
+2024-04-19 20:08:00 [   Application_main.java] INFO  -                                                               
+2024-04-19 20:08:00 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 20:08:00 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 20:08:00 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 20:08:00 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 20:08:00 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 20:08:00 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 20:08:00 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 20:08:00 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 20:08:00 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 20:08:00 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 20:08:00 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 20:08:00 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 20:08:00 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 20:08:00 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 20:08:00 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 20:08:00 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 20:08:00 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 20:08:00 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 20:08:00 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 20:08:00 [   Application_main.java] INFO  - 
+2024-04-19 20:08:00 [          Execution.java] INFO  - ==============================================================
+2024-04-19 20:08:00 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-04-19 20:08:00 [          Execution.java] INFO  - ==============================================================
+2024-04-19 20:10:21 [   Application_main.java] INFO  -                                                               
+2024-04-19 20:10:21 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 20:10:21 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 20:10:21 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 20:10:21 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 20:10:21 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 20:10:21 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 20:10:21 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 20:10:21 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 20:10:21 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 20:10:21 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 20:10:21 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 20:10:21 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 20:10:21 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 20:10:21 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 20:10:21 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 20:10:21 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 20:10:21 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 20:10:21 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 20:10:21 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 20:10:21 [   Application_main.java] INFO  - 
+2024-04-19 20:10:21 [          Execution.java] INFO  - ==============================================================
+2024-04-19 20:10:21 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-04-19 20:10:21 [          Execution.java] INFO  - ==============================================================
+2024-04-19 20:12:05 [   Application_main.java] INFO  -                                                               
+2024-04-19 20:12:05 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 20:12:05 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 20:12:05 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 20:12:05 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 20:12:05 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 20:12:05 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 20:12:05 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 20:12:05 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 20:12:05 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 20:12:05 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 20:12:05 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 20:12:05 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 20:12:05 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 20:12:05 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 20:12:05 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 20:12:05 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 20:12:05 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 20:12:05 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 20:12:05 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 20:12:05 [   Application_main.java] INFO  - 
+2024-04-19 20:12:05 [          Execution.java] INFO  - ==============================================================
+2024-04-19 20:12:05 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-04-19 20:12:05 [          Execution.java] INFO  - ==============================================================
+2024-04-19 20:14:25 [   Application_main.java] INFO  -                                                               
+2024-04-19 20:14:25 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 20:14:25 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 20:14:25 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 20:14:25 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 20:14:25 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 20:14:25 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 20:14:25 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 20:14:25 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 20:14:25 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 20:14:25 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 20:14:25 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 20:14:25 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 20:14:25 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 20:14:25 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 20:14:25 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 20:14:25 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 20:14:25 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 20:14:25 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 20:14:25 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 20:14:25 [   Application_main.java] INFO  - 
+2024-04-19 20:14:25 [          Execution.java] INFO  - ==============================================================
+2024-04-19 20:14:25 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-04-19 20:14:25 [          Execution.java] INFO  - ==============================================================
+2024-04-19 20:15:18 [   Application_main.java] INFO  -                                                               
+2024-04-19 20:15:18 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 20:15:18 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 20:15:18 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 20:15:18 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 20:15:18 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 20:15:18 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 20:15:18 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 20:15:18 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 20:15:18 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 20:15:18 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 20:15:18 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 20:15:18 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 20:15:18 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 20:15:18 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 20:15:18 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 20:15:18 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 20:15:18 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 20:15:18 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 20:15:18 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 20:15:18 [   Application_main.java] INFO  - 
+2024-04-19 20:15:18 [          Execution.java] INFO  - ==============================================================
+2024-04-19 20:15:18 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-04-19 20:15:18 [          Execution.java] INFO  - ==============================================================
+2024-04-19 20:15:50 [   Application_main.java] INFO  -                                                               
+2024-04-19 20:15:50 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 20:15:50 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 20:15:50 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 20:15:50 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 20:15:50 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 20:15:50 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 20:15:50 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 20:15:50 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 20:15:50 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 20:15:50 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 20:15:50 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 20:15:50 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 20:15:50 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 20:15:50 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 20:15:50 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 20:15:50 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 20:15:50 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 20:15:50 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 20:15:50 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 20:15:50 [   Application_main.java] INFO  - 
+2024-04-19 20:15:50 [          Execution.java] INFO  - ==============================================================
+2024-04-19 20:15:50 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-04-19 20:15:50 [          Execution.java] INFO  - ==============================================================
+2024-04-19 20:16:52 [   Application_main.java] INFO  -                                                               
+2024-04-19 20:16:52 [   Application_main.java] INFO  -                                %%%                            
+2024-04-19 20:16:52 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-19 20:16:52 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-19 20:16:52 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-19 20:16:52 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-19 20:16:52 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-19 20:16:52 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-19 20:16:52 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-19 20:16:52 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-19 20:16:52 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 20:16:52 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 20:16:52 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-19 20:16:52 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-19 20:16:52 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-19 20:16:52 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-19 20:16:52 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-19 20:16:52 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-19 20:16:52 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-19 20:16:52 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-19 20:16:52 [   Application_main.java] INFO  - 
+2024-04-19 20:16:52 [          Execution.java] INFO  - ==============================================================
+2024-04-19 20:16:52 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-04-19 20:16:52 [          Execution.java] INFO  - ==============================================================
+2024-04-23 13:14:43 [   Application_main.java] INFO  -                                                               
+2024-04-23 13:14:43 [   Application_main.java] INFO  -                                %%%                            
+2024-04-23 13:14:43 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-23 13:14:43 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-23 13:14:43 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-23 13:14:43 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-23 13:14:43 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-23 13:14:43 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-23 13:14:43 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-23 13:14:43 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-23 13:14:43 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-23 13:14:43 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-23 13:14:43 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-23 13:14:43 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-23 13:14:43 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-23 13:14:43 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-23 13:14:43 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-23 13:14:43 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-23 13:14:43 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-23 13:14:43 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-23 13:14:43 [   Application_main.java] INFO  - 
+2024-04-23 13:14:43 [          Execution.java] INFO  - ==============================================================
+2024-04-23 13:14:43 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-04-23 13:14:43 [          Execution.java] INFO  - ==============================================================
+2024-04-23 13:15:45 [   Application_main.java] INFO  -                                                               
+2024-04-23 13:15:45 [   Application_main.java] INFO  -                                %%%                            
+2024-04-23 13:15:45 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-23 13:15:45 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-23 13:15:45 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-23 13:15:45 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-23 13:15:45 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-23 13:15:45 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-23 13:15:45 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-23 13:15:45 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-23 13:15:45 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-23 13:15:45 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-23 13:15:45 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-23 13:15:45 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-23 13:15:45 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-23 13:15:45 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-23 13:15:45 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-23 13:15:45 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-23 13:15:45 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-23 13:15:45 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-23 13:15:45 [   Application_main.java] INFO  - 
+2024-04-23 13:15:45 [          Execution.java] INFO  - ==============================================================
+2024-04-23 13:15:45 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-04-23 13:15:45 [          Execution.java] INFO  - ==============================================================
+2024-04-23 13:16:52 [   Application_main.java] INFO  -                                                               
+2024-04-23 13:16:52 [   Application_main.java] INFO  -                                %%%                            
+2024-04-23 13:16:52 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-23 13:16:52 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-23 13:16:52 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-23 13:16:52 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-23 13:16:52 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-23 13:16:52 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-23 13:16:52 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-23 13:16:52 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-23 13:16:52 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-23 13:16:52 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-23 13:16:52 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-23 13:16:52 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-23 13:16:52 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-23 13:16:52 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-23 13:16:52 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-23 13:16:52 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-23 13:16:52 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-23 13:16:52 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-23 13:16:52 [   Application_main.java] INFO  - 
+2024-04-23 13:16:52 [          Execution.java] INFO  - ==============================================================
+2024-04-23 13:16:52 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-04-23 13:16:52 [          Execution.java] INFO  - ==============================================================
+2024-04-25 13:50:40 [   Application_main.java] INFO  -                                                               
+2024-04-25 13:50:40 [   Application_main.java] INFO  -                                %%%                            
+2024-04-25 13:50:40 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-25 13:50:40 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-25 13:50:40 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-25 13:50:40 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-25 13:50:40 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-25 13:50:40 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-25 13:50:40 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-25 13:50:40 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-25 13:50:40 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-25 13:50:40 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-25 13:50:40 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-25 13:50:40 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-25 13:50:40 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-25 13:50:40 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-25 13:50:40 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-25 13:50:40 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-25 13:50:40 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-25 13:50:40 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-25 13:50:40 [   Application_main.java] INFO  - 
+2024-04-25 13:50:40 [          Execution.java] INFO  - ==============================================================
+2024-04-25 13:50:40 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-04-25 13:50:40 [          Execution.java] INFO  - ==============================================================
+2024-04-25 13:51:22 [   Application_main.java] INFO  -                                                               
+2024-04-25 13:51:22 [   Application_main.java] INFO  -                                %%%                            
+2024-04-25 13:51:22 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-04-25 13:51:22 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-04-25 13:51:22 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-04-25 13:51:22 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-04-25 13:51:22 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-04-25 13:51:22 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-04-25 13:51:22 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-04-25 13:51:22 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-04-25 13:51:22 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-25 13:51:22 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-25 13:51:22 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-04-25 13:51:22 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-04-25 13:51:22 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-04-25 13:51:22 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-04-25 13:51:22 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-04-25 13:51:22 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-04-25 13:51:22 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-04-25 13:51:22 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-04-25 13:51:22 [   Application_main.java] INFO  - 
+2024-04-25 13:51:22 [          Execution.java] INFO  - ==============================================================
+2024-04-25 13:51:22 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-04-25 13:51:22 [          Execution.java] INFO  - ==============================================================
+2024-06-09 22:59:57 [   Application_main.java] INFO  -                                                               
+2024-06-09 22:59:57 [   Application_main.java] INFO  -                                %%%                            
+2024-06-09 22:59:57 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-09 22:59:57 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-09 22:59:57 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-09 22:59:57 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-09 22:59:57 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-09 22:59:57 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-09 22:59:57 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-09 22:59:57 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-09 22:59:57 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-09 22:59:57 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-09 22:59:57 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-09 22:59:57 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-09 22:59:57 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-09 22:59:57 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-09 22:59:57 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-09 22:59:57 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-09 22:59:57 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-09 22:59:57 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-09 22:59:57 [   Application_main.java] INFO  - 
+2024-06-09 22:59:57 [          Execution.java] INFO  - ==============================================================
+2024-06-09 22:59:57 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-09 22:59:57 [          Execution.java] INFO  - ==============================================================
+2024-06-09 23:25:23 [   Application_main.java] INFO  -                                                               
+2024-06-09 23:25:23 [   Application_main.java] INFO  -                                %%%                            
+2024-06-09 23:25:23 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-09 23:25:23 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-09 23:25:23 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-09 23:25:23 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-09 23:25:23 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-09 23:25:23 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-09 23:25:23 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-09 23:25:23 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-09 23:25:23 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-09 23:25:23 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-09 23:25:23 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-09 23:25:23 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-09 23:25:23 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-09 23:25:23 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-09 23:25:23 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-09 23:25:23 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-09 23:25:23 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-09 23:25:23 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-09 23:25:23 [   Application_main.java] INFO  - 
+2024-06-09 23:25:23 [          Execution.java] INFO  - ==============================================================
+2024-06-09 23:25:23 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-09 23:25:23 [          Execution.java] INFO  - ==============================================================
+2024-06-09 23:27:30 [   Application_main.java] INFO  -                                                               
+2024-06-09 23:27:30 [   Application_main.java] INFO  -                                %%%                            
+2024-06-09 23:27:30 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-09 23:27:30 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-09 23:27:30 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-09 23:27:30 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-09 23:27:30 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-09 23:27:30 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-09 23:27:30 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-09 23:27:30 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-09 23:27:30 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-09 23:27:30 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-09 23:27:30 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-09 23:27:30 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-09 23:27:30 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-09 23:27:30 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-09 23:27:30 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-09 23:27:30 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-09 23:27:30 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-09 23:27:30 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-09 23:27:30 [   Application_main.java] INFO  - 
+2024-06-09 23:27:30 [          Execution.java] INFO  - ==============================================================
+2024-06-09 23:27:30 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-09 23:27:30 [          Execution.java] INFO  - ==============================================================
+2024-06-30 13:57:05 [   Application_main.java] INFO  -                                                               
+2024-06-30 13:57:05 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 13:57:05 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 13:57:05 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 13:57:05 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 13:57:05 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 13:57:05 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 13:57:05 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 13:57:05 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 13:57:05 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 13:57:05 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 13:57:05 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 13:57:05 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 13:57:05 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 13:57:05 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 13:57:05 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 13:57:05 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 13:57:05 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 13:57:05 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 13:57:05 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 13:57:05 [   Application_main.java] INFO  - 
+2024-06-30 13:57:05 [          Execution.java] INFO  - ==============================================================
+2024-06-30 13:57:05 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 13:57:05 [          Execution.java] INFO  - ==============================================================
+2024-06-30 13:58:06 [   Application_main.java] INFO  -                                                               
+2024-06-30 13:58:06 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 13:58:06 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 13:58:06 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 13:58:06 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 13:58:06 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 13:58:06 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 13:58:06 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 13:58:06 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 13:58:06 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 13:58:06 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 13:58:06 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 13:58:06 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 13:58:06 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 13:58:06 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 13:58:06 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 13:58:06 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 13:58:06 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 13:58:06 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 13:58:06 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 13:58:06 [   Application_main.java] INFO  - 
+2024-06-30 13:58:06 [          Execution.java] INFO  - ==============================================================
+2024-06-30 13:58:06 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 13:58:06 [          Execution.java] INFO  - ==============================================================
+2024-06-30 13:59:29 [   Application_main.java] INFO  -                                                               
+2024-06-30 13:59:29 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 13:59:29 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 13:59:29 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 13:59:29 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 13:59:29 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 13:59:29 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 13:59:29 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 13:59:29 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 13:59:29 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 13:59:29 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 13:59:29 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 13:59:29 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 13:59:29 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 13:59:29 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 13:59:29 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 13:59:29 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 13:59:29 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 13:59:29 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 13:59:29 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 13:59:29 [   Application_main.java] INFO  - 
+2024-06-30 13:59:29 [          Execution.java] INFO  - ==============================================================
+2024-06-30 13:59:29 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 13:59:29 [          Execution.java] INFO  - ==============================================================
+2024-06-30 14:03:35 [   Application_main.java] INFO  -                                                               
+2024-06-30 14:03:35 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 14:03:35 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 14:03:35 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 14:03:35 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 14:03:35 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 14:03:35 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 14:03:35 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 14:03:35 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 14:03:35 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 14:03:35 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 14:03:35 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 14:03:35 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 14:03:35 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 14:03:35 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 14:03:35 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 14:03:35 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 14:03:35 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 14:03:35 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 14:03:35 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 14:03:35 [   Application_main.java] INFO  - 
+2024-06-30 14:03:35 [          Execution.java] INFO  - ==============================================================
+2024-06-30 14:03:35 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 14:03:35 [          Execution.java] INFO  - ==============================================================
+2024-06-30 14:05:48 [   Application_main.java] INFO  -                                                               
+2024-06-30 14:05:48 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 14:05:48 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 14:05:48 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 14:05:48 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 14:05:48 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 14:05:48 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 14:05:48 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 14:05:48 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 14:05:48 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 14:05:48 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 14:05:48 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 14:05:48 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 14:05:48 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 14:05:48 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 14:05:48 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 14:05:48 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 14:05:48 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 14:05:48 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 14:05:48 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 14:05:48 [   Application_main.java] INFO  - 
+2024-06-30 14:05:48 [          Execution.java] INFO  - ==============================================================
+2024-06-30 14:05:48 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 14:05:48 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:09:24 [   Application_main.java] INFO  -                                                               
+2024-06-30 15:09:24 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 15:09:24 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 15:09:24 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 15:09:24 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 15:09:24 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 15:09:24 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 15:09:24 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 15:09:24 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 15:09:24 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 15:09:24 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:09:24 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:09:24 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:09:24 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:09:24 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 15:09:24 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 15:09:24 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 15:09:24 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 15:09:24 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 15:09:24 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 15:09:24 [   Application_main.java] INFO  - 
+2024-06-30 15:09:24 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:09:24 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 15:09:24 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:10:25 [   Application_main.java] INFO  -                                                               
+2024-06-30 15:10:25 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 15:10:25 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 15:10:25 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 15:10:25 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 15:10:25 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 15:10:25 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 15:10:25 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 15:10:25 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 15:10:25 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 15:10:25 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:10:25 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:10:25 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:10:25 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:10:25 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 15:10:25 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 15:10:25 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 15:10:25 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 15:10:25 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 15:10:25 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 15:10:25 [   Application_main.java] INFO  - 
+2024-06-30 15:10:25 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:10:25 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 15:10:25 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:14:51 [   Application_main.java] INFO  -                                                               
+2024-06-30 15:14:51 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 15:14:51 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 15:14:51 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 15:14:51 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 15:14:51 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 15:14:51 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 15:14:51 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 15:14:51 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 15:14:51 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 15:14:51 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:14:51 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:14:51 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:14:51 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:14:51 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 15:14:51 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 15:14:51 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 15:14:51 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 15:14:51 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 15:14:51 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 15:14:51 [   Application_main.java] INFO  - 
+2024-06-30 15:14:51 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:14:51 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 15:14:51 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:18:19 [   Application_main.java] INFO  -                                                               
+2024-06-30 15:18:19 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 15:18:19 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 15:18:19 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 15:18:19 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 15:18:19 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 15:18:19 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 15:18:19 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 15:18:19 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 15:18:19 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 15:18:19 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:18:19 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:18:19 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:18:19 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:18:19 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 15:18:19 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 15:18:19 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 15:18:19 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 15:18:19 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 15:18:19 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 15:18:19 [   Application_main.java] INFO  - 
+2024-06-30 15:18:19 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:18:19 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 15:18:19 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:19:03 [   Application_main.java] INFO  -                                                               
+2024-06-30 15:19:03 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 15:19:03 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 15:19:03 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 15:19:03 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 15:19:03 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 15:19:03 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 15:19:03 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 15:19:03 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 15:19:03 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 15:19:03 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:19:03 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:19:03 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:19:03 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:19:03 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 15:19:03 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 15:19:03 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 15:19:03 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 15:19:03 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 15:19:03 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 15:19:03 [   Application_main.java] INFO  - 
+2024-06-30 15:19:03 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:19:03 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 15:19:03 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:28:29 [   Application_main.java] INFO  -                                                               
+2024-06-30 15:28:29 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 15:28:29 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 15:28:29 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 15:28:29 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 15:28:29 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 15:28:29 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 15:28:29 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 15:28:29 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 15:28:29 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 15:28:29 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:28:29 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:28:29 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:28:29 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:28:29 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 15:28:29 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 15:28:29 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 15:28:29 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 15:28:29 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 15:28:29 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 15:28:29 [   Application_main.java] INFO  - 
+2024-06-30 15:28:29 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:28:29 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 15:28:29 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:43:28 [   Application_main.java] INFO  -                                                               
+2024-06-30 15:43:28 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 15:43:28 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 15:43:28 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 15:43:28 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 15:43:28 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 15:43:28 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 15:43:28 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 15:43:28 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 15:43:28 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 15:43:28 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:43:28 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:43:28 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:43:28 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:43:28 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 15:43:28 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 15:43:28 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 15:43:28 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 15:43:28 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 15:43:28 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 15:43:28 [   Application_main.java] INFO  - 
+2024-06-30 15:43:28 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:43:28 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 15:43:28 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:46:03 [   Application_main.java] INFO  -                                                               
+2024-06-30 15:46:03 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 15:46:03 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 15:46:03 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 15:46:03 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 15:46:03 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 15:46:03 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 15:46:03 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 15:46:03 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 15:46:03 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 15:46:03 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:46:03 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:46:03 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:46:03 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:46:03 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 15:46:03 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 15:46:03 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 15:46:03 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 15:46:03 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 15:46:03 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 15:46:03 [   Application_main.java] INFO  - 
+2024-06-30 15:46:03 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:46:03 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 15:46:03 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:48:20 [   Application_main.java] INFO  -                                                               
+2024-06-30 15:48:20 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 15:48:20 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 15:48:20 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 15:48:20 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 15:48:20 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 15:48:20 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 15:48:20 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 15:48:20 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 15:48:20 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 15:48:20 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:48:20 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:48:20 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:48:20 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:48:20 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 15:48:20 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 15:48:20 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 15:48:20 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 15:48:20 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 15:48:20 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 15:48:20 [   Application_main.java] INFO  - 
+2024-06-30 15:48:20 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:48:20 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 15:48:20 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:55:23 [   Application_main.java] INFO  -                                                               
+2024-06-30 15:55:23 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 15:55:23 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 15:55:23 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 15:55:23 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 15:55:23 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 15:55:23 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 15:55:23 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 15:55:23 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 15:55:23 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 15:55:23 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:55:23 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:55:23 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:55:23 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:55:23 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 15:55:23 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 15:55:23 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 15:55:23 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 15:55:23 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 15:55:23 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 15:55:23 [   Application_main.java] INFO  - 
+2024-06-30 15:55:23 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:55:23 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 15:55:23 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:56:25 [   Application_main.java] INFO  -                                                               
+2024-06-30 15:56:25 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 15:56:25 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 15:56:25 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 15:56:25 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 15:56:25 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 15:56:25 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 15:56:25 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 15:56:25 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 15:56:25 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 15:56:25 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:56:25 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:56:25 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:56:25 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:56:25 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 15:56:25 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 15:56:25 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 15:56:25 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 15:56:25 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 15:56:25 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 15:56:25 [   Application_main.java] INFO  - 
+2024-06-30 15:56:25 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:56:25 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 15:56:25 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:57:17 [   Application_main.java] INFO  -                                                               
+2024-06-30 15:57:17 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 15:57:17 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 15:57:17 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 15:57:17 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 15:57:17 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 15:57:17 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 15:57:17 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 15:57:17 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 15:57:17 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 15:57:17 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:57:17 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:57:17 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 15:57:17 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 15:57:17 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 15:57:17 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 15:57:17 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 15:57:17 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 15:57:17 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 15:57:17 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 15:57:17 [   Application_main.java] INFO  - 
+2024-06-30 15:57:17 [          Execution.java] INFO  - ==============================================================
+2024-06-30 15:57:17 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 15:57:17 [          Execution.java] INFO  - ==============================================================
+2024-06-30 16:04:14 [   Application_main.java] INFO  -                                                               
+2024-06-30 16:04:14 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 16:04:14 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 16:04:14 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 16:04:14 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 16:04:14 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 16:04:14 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 16:04:14 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 16:04:14 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 16:04:14 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 16:04:14 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 16:04:14 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 16:04:14 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 16:04:14 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 16:04:14 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 16:04:14 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 16:04:14 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 16:04:14 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 16:04:14 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 16:04:14 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 16:04:14 [   Application_main.java] INFO  - 
+2024-06-30 16:04:14 [          Execution.java] INFO  - ==============================================================
+2024-06-30 16:04:14 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 16:04:14 [          Execution.java] INFO  - ==============================================================
+2024-06-30 16:04:47 [   Application_main.java] INFO  -                                                               
+2024-06-30 16:04:47 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 16:04:47 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 16:04:47 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 16:04:47 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 16:04:47 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 16:04:47 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 16:04:47 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 16:04:47 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 16:04:47 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 16:04:47 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 16:04:47 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 16:04:47 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 16:04:47 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 16:04:47 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 16:04:47 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 16:04:47 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 16:04:47 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 16:04:47 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 16:04:47 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 16:04:47 [   Application_main.java] INFO  - 
+2024-06-30 16:04:47 [          Execution.java] INFO  - ==============================================================
+2024-06-30 16:04:47 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 16:04:47 [          Execution.java] INFO  - ==============================================================
+2024-06-30 16:10:56 [   Application_main.java] INFO  -                                                               
+2024-06-30 16:10:56 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 16:10:56 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 16:10:56 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 16:10:56 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 16:10:56 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 16:10:56 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 16:10:56 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 16:10:56 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 16:10:56 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 16:10:56 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 16:10:56 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 16:10:56 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 16:10:56 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 16:10:56 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 16:10:56 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 16:10:56 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 16:10:56 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 16:10:56 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 16:10:56 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 16:10:56 [   Application_main.java] INFO  - 
+2024-06-30 16:10:56 [          Execution.java] INFO  - ==============================================================
+2024-06-30 16:10:56 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 16:10:56 [          Execution.java] INFO  - ==============================================================
+2024-06-30 16:12:44 [   Application_main.java] INFO  -                                                               
+2024-06-30 16:12:44 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 16:12:44 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 16:12:44 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 16:12:44 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 16:12:44 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 16:12:44 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 16:12:44 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 16:12:44 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 16:12:44 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 16:12:44 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 16:12:44 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 16:12:44 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 16:12:44 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 16:12:44 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 16:12:44 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 16:12:44 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 16:12:44 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 16:12:44 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 16:12:44 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 16:12:44 [   Application_main.java] INFO  - 
+2024-06-30 16:12:44 [          Execution.java] INFO  - ==============================================================
+2024-06-30 16:12:44 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 16:12:44 [          Execution.java] INFO  - ==============================================================
+2024-06-30 16:17:09 [   Application_main.java] INFO  -                                                               
+2024-06-30 16:17:09 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 16:17:09 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 16:17:09 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 16:17:09 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 16:17:09 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 16:17:09 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 16:17:09 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 16:17:09 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 16:17:09 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 16:17:09 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 16:17:09 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 16:17:09 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 16:17:09 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 16:17:09 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 16:17:09 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 16:17:09 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 16:17:09 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 16:17:09 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 16:17:09 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 16:17:09 [   Application_main.java] INFO  - 
+2024-06-30 16:17:09 [          Execution.java] INFO  - ==============================================================
+2024-06-30 16:17:09 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 16:17:09 [          Execution.java] INFO  - ==============================================================
+2024-06-30 16:25:31 [   Application_main.java] INFO  -                                                               
+2024-06-30 16:25:31 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 16:25:31 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 16:25:31 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 16:25:31 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 16:25:31 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 16:25:31 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 16:25:31 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 16:25:31 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 16:25:31 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 16:25:31 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 16:25:31 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 16:25:31 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 16:25:31 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 16:25:31 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 16:25:31 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 16:25:31 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 16:25:31 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 16:25:31 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 16:25:31 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 16:25:31 [   Application_main.java] INFO  - 
+2024-06-30 16:25:31 [          Execution.java] INFO  - ==============================================================
+2024-06-30 16:25:31 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 16:25:31 [          Execution.java] INFO  - ==============================================================
+2024-06-30 16:26:20 [   Application_main.java] INFO  -                                                               
+2024-06-30 16:26:20 [   Application_main.java] INFO  -                                %%%                            
+2024-06-30 16:26:20 [   Application_main.java] INFO  -                              %%%%%%%                          
+2024-06-30 16:26:20 [   Application_main.java] INFO  -                           %%%%%%%%%%%%                        
+2024-06-30 16:26:20 [   Application_main.java] INFO  -                         %%%%%%%%%%%%%%  %                     
+2024-06-30 16:26:20 [   Application_main.java] INFO  -                      %%%%%%%%%%%%%%%   %%%%%                  
+2024-06-30 16:26:20 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%   %%%%%%%%%                
+2024-06-30 16:26:20 [   Application_main.java] INFO  -                 %%%%%%%%%%%%%%%    %%%%%%%%%%%%%              
+2024-06-30 16:26:20 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%       %%%%%%%%%%%%%%            
+2024-06-30 16:26:20 [   Application_main.java] INFO  -               %%%%%%%%%%%%             %%%%%%%%%%%%           
+2024-06-30 16:26:20 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 16:26:20 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 16:26:20 [   Application_main.java] INFO  -              %%%%%%%%%%%                 %%%%%%%%%%%          
+2024-06-30 16:26:20 [   Application_main.java] INFO  -              %%%%%%%%%%%%               %%%%%%%%%%%%          
+2024-06-30 16:26:20 [   Application_main.java] INFO  -               %%%%%%%%%%%%%           %%%%%%%%%%%%%           
+2024-06-30 16:26:20 [   Application_main.java] INFO  -                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%            
+2024-06-30 16:26:20 [   Application_main.java] INFO  -                  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%              
+2024-06-30 16:26:20 [   Application_main.java] INFO  -                    %%%%%%%%%%%%%%%%%%%%%%%%%%%                
+2024-06-30 16:26:20 [   Application_main.java] INFO  -                       %%%%%%%%%%%%%%%%%%%%%                   
+2024-06-30 16:26:20 [   Application_main.java] INFO  -                             %%%%%%%%%                         
+2024-06-30 16:26:20 [   Application_main.java] INFO  - 
+2024-06-30 16:26:20 [          Execution.java] INFO  - ==============================================================
+2024-06-30 16:26:20 [          Execution.java] INFO  -                STARTING TEST SUITE EXECUTION                  
+2024-06-30 16:26:20 [          Execution.java] INFO  - ==============================================================
