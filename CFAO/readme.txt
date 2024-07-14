@@ -31,7 +31,6 @@ Use of Getter and Setters in Framework
 	4. It's very simple if you look at syntax, but .. but if you want to retrieve data in another class then
 		you've to make method, variables as static & perform next actions.
 
-Github token: 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
 
 Cucumber Step definition with parameter syntax
 ==============================================
