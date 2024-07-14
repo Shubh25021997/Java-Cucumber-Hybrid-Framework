@@ -8,7 +8,7 @@
     Then Logout from OTM
     
       @FO_002
-  Scenario: Access to domain
+  Scenario: Access
     Given Login into OTM as 'Admin'
     Then Wait for '10' seconds
     Then Logout from OTM

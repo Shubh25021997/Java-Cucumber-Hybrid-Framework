@@ -4,6 +4,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class DataProvider {
+	
+	public static final String BROWSER = "Browser";
+	public static final String STEPNUMBER = "StepNumber";
+	public static final String TEST_CASE_ERROR = "TestCaseError";
 	private static Map<String, String> globalDataMap = new HashMap<>();
 
 	/**
