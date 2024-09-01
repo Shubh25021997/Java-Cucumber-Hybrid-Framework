@@ -7,6 +7,7 @@ import java.util.List;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.testng.ITestResult;
+import org.testng.annotations.AfterClass;
 
 import Bindings.DataProvider;
 import Bindings.DriverProvider;
@@ -149,7 +150,16 @@ public class Hooks {
 		}
 		DriverProvider.getCurrentDriver().quit();
 	}
-
+	
+	/**
+	 * After suite setup
+	 * To clear JVM memory
+	 * 
+	 */
+	@AfterClass
+	public void afterClass () {
+		System.gc();
+	}
 
 
 }

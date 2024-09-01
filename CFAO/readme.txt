@@ -64,3 +64,7 @@ ExtentReports
 ExtentSparkReporter -> class responsible for look of feel of report
 ExtentReports		-> use to make entries of each test case in report.
 ExtentTest			-> Use to provide status (Pass, Fail, skip) to the Test step.
+------> EXPLAIN MORE ABOUT IT<------------
+
+Hooks.java
+==========
