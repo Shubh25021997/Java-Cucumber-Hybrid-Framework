@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO" monitorInterval="30">
+	<!-- Logging Properties -->
+	<properties>
+		<Property name="LOG_PATTERN">%d{yyyy-MM-dd HH:mm:ss} [%24F] %-5level - %msg%n</Property>
+	</properties>
+	<!-- Console Appender -->
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT" follow="true">
+            <PatternLayout pattern="${LOG_PATTERN}"/>
+        </Console>
+        
+        <File name="Logfile" fileName="TempLogFiles/Logs.log" >
+		<PatternLayout pattern="${LOG_PATTERN}" />
+		</File>
+    </Appenders>
+    <Loggers>
+        <Root level="INFO">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="Logfile" />
+        </Root>
+    </Loggers>
+</Configuration>
